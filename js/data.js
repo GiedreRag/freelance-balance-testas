@@ -12,3 +12,9 @@ const account = [
     { month: 8, income: 450, expense: 120 },
     { month: 12, expense: 200 }
 ];
+
+
+let theMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "December"];
+for ( i-0; i<12; i++) {
+    document.write(theMonths[i]);
+}
