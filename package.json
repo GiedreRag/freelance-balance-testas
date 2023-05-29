@@ -1,0 +1,17 @@
+{
+  "name": "freelance-balance-testas",
+  "version": "1.0.0",
+  "description": "1. Pasidaryti projekto fork'ą, kuris sukurs projekto kopiją jūsų paskiroje;",
+  "main": "index.js",
+  "scripts": {
+    "console": "nodemon ./js/data.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Giedre",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

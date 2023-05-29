@@ -1,3 +1,5 @@
+const { log } = require("console");
+
 const account = [
     { month: 10, income: 150 },
     { month: 1, income: 200, expense: 50 },
@@ -15,6 +17,13 @@ const account = [
 
 
 let theMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "December"];
-for ( i-0; i<12; i++) {
-    document.write(theMonths[i]);
+for ( i=0; i<12; i++) {
+    console.log(i);
 }
+
+let theIncome = [income];
+for ( i=0; i>1; i++) {
+
+}
+
+
