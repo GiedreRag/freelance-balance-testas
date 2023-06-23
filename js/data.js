@@ -15,15 +15,30 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
+ // 3.
+const months = [
+    'Sausis',
+    'Vasaris',
+    'Kovas',
+    'Balandis',
+    'Geguze',
+    'Birzelis',
+    'Liepa',
+    'Rugpjutis',
+    'Rugsejis',
+    'Spalis',
+    'Lapkritis',
+    'Gruodis'
+];
 
-let theMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "December"];
-for ( i=0; i<12; i++) {
-    console.log(i);
-}
+console.log(months);
 
-let theIncome = [income];
-for ( i=0; i>1; i++) {
 
-}
+
+//4. 
+
+// month i=1 +1 i++
+
+
 
 
